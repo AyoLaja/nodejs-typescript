@@ -1,5 +1,4 @@
 import { Router } from "express";
-import { type } from "os";
 import { Todo } from "../models/todosModel";
 
 type RequestBody = {
